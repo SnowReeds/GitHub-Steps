@@ -3,9 +3,13 @@
 Steps For GitHub:
 =================
 Click the + icon next to your username, top-right.
+
 Name your repository hello-world.
+
 Write a short description.
+
 Select Initialize this repository with a README.
+
 
 Create a Branch:
 ===============
